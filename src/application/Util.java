@@ -4,37 +4,37 @@ public class Util {
 	
 	public static final String APP_TITLE = "Library";
 	public static final String LOGO_PATH = "/logo.jpg";
-    public static final String FXML_PATH = "/Scene.fxml";
-    public static final String EXCEL_PATH = "/¿Î³Ì×Ü±í.xls";
-    public static final String IMAGE_OF_EXCEL_PATH = "/¿Î³Ì×Ü±í.jpg";
+    	public static final String FXML_PATH = "/Scene.fxml";
+    	public static final String EXCEL_PATH = "/è¯¾ç¨‹æ€»è¡¨.xls";
+    	public static final String IMAGE_OF_EXCEL_PATH = "/è¯¾ç¨‹æ€»è¡¨.jpg";
 	
-	// ×ùÎ»µÄÈıÖÖ×´Ì¬ÑÕÉ«
+	// åº§ä½çš„ä¸‰ç§çŠ¶æ€é¢œè‰²
 	public static final String BUSY_STYLE ="-fx-background-color: #E3170D";
 	public static final String FREE_STYLE ="-fx-background-color: #00C957";
 	public static final String NONE_STYLE ="-fx-background-color: #4169E1";
 	
-	// ×ùÎ»´óĞ¡
+	// åº§ä½å¤§å°
 	public static final double prefWidth = 40;
 	public static final double prefHeight = 40;
 	
-	// ×ùÎ»¼ä¾à
-	public static final double Hgap = 15;  // Ë®Æ½·½Ïò
-	public static final double Vgap = 15;  // ÊúÖ±·½Ïò
+	// åº§ä½é—´è·
+	public static final double Hgap = 15;  // æ°´å¹³æ–¹å‘
+	public static final double Vgap = 15;  // ç«–ç›´æ–¹å‘
 	
-	public static final String DATETIME_ERROR = "Ê±¼äÊäÈëÓĞÎó£¡";
-	public static final String NUMBER_ERROR = "Ñ§ºÅ¡¢ÔÄÀÀÊÒ¡¢×ùÎ»ºÅ¾ùÓ¦ÎªÊı×Ö£¡";
-	public static final String ID_ERROR = "¸ÃÑ§ºÅÒÑ´æÔÚ£¡";
-	public static final String CLASSNAME_ERROR = "¸Ã°à¼¶²»´æÔÚ£¡";
-	public static final String ROOM_ERROR = "¸ÃÔÄÀÀÊÒ²»´æÔÚ£¡";
-	public static final String SEAT_ERROR = "¸Ã×ùÎ»²»´æÔÚ£¡";
-	public static final String OCCUPY_ERROR = "¸Ã×ùÎ»ÒÑÎªvipËùÓĞ£¡";
-	public static final String TIP_INFO = "Ë«»÷µ¥Ôª¸ñ¿É½øĞĞĞŞ¸Ä";
-	public static final String ADD_SEAT_CONFIRM = "ÊÇ·ñÈ·¶¨ÔÚ´Ë´¦Ìí¼Ó×ùÎ»£¿";
-	public static final String DELETE_STUDENT_CONFIRM = "ÊÇ·ñÈ·¶¨É¾³ı¸ÃÑ§ÉúĞÅÏ¢£¿";
+	public static final String DATETIME_ERROR = "æ—¶é—´è¾“å…¥æœ‰è¯¯ï¼";
+	public static final String NUMBER_ERROR = "å­¦å·ã€é˜…è§ˆå®¤ã€åº§ä½å·å‡åº”ä¸ºæ•°å­—ï¼";
+	public static final String ID_ERROR = "è¯¥å­¦å·å·²å­˜åœ¨ï¼";
+	public static final String CLASSNAME_ERROR = "è¯¥ç­çº§ä¸å­˜åœ¨ï¼";
+	public static final String ROOM_ERROR = "è¯¥é˜…è§ˆå®¤ä¸å­˜åœ¨ï¼";
+	public static final String SEAT_ERROR = "è¯¥åº§ä½ä¸å­˜åœ¨ï¼";
+	public static final String OCCUPY_ERROR = "è¯¥åº§ä½å·²ä¸ºvipæ‰€æœ‰ï¼";
+	public static final String TIP_INFO = "åŒå‡»å•å…ƒæ ¼å¯è¿›è¡Œä¿®æ”¹";
+	public static final String ADD_SEAT_CONFIRM = "æ˜¯å¦ç¡®å®šåœ¨æ­¤å¤„æ·»åŠ åº§ä½ï¼Ÿ";
+	public static final String DELETE_STUDENT_CONFIRM = "æ˜¯å¦ç¡®å®šåˆ é™¤è¯¥å­¦ç”Ÿä¿¡æ¯ï¼Ÿ";
 	
 	
-	public static final int ROOM_NUM = 9;  // ÔÄÀÀÊÒÊıÄ¿
-	public static final int ROOM_SPACE = 81;  // Ã¿¸öÔÄÀÀÊÒÈİÁ¿
+	public static final int ROOM_NUM = 9;  // é˜…è§ˆå®¤æ•°ç›®
+	public static final int ROOM_SPACE = 81;  // æ¯ä¸ªé˜…è§ˆå®¤å®¹é‡
 	
 	public static final String WEEK_INIT = "2018-9-3";
 	
