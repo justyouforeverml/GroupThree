@@ -5,8 +5,8 @@ public class Util {
 	public static final String APP_TITLE = "Library";
 	public static final String LOGO_PATH = "/logo.jpg";
     public static final String FXML_PATH = "/Scene.fxml";
-    public static final String EXCEL_PATH = "file:../../res/课程总表.xls";
-    public static final String IMAGE_OF_EXCEL_PATH = "file:../../res/课程总表.jpg";
+    public static final String EXCEL_PATH = "/课程总表.xls";
+    public static final String IMAGE_OF_EXCEL_PATH = "/课程总表.jpg";
 	
 	// 座位的三种状态颜色
 	public static final String BUSY_STYLE ="-fx-background-color: #E3170D";
